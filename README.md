@@ -22,9 +22,6 @@
 
 ## 🧩 Project Structure
 
-1.flwr_fed_mnist.py # Main federated learning script
-2.README.md # Project documentation
-
 The script will:
 
 1.Split MNIST data across simulated clients.
