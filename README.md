@@ -22,7 +22,6 @@
 
 ## 🧩 Project Structure
 
-FlowerMNIST/
 1.flwr_fed_mnist.py # Main federated learning script
 2.README.md # Project documentation
 
