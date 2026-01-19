@@ -1,11 +1,11 @@
-# FedMNIST 🌸
+# FlowerMNIST 🌸
 
 [![Python](https://img.shields.io/badge/python-3.10+-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.15-red)](https://pytorch.org/)
 [![Flower](https://img.shields.io/badge/Flower-FL-purple)](https://flower.dev/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-**FedMNIST** is a federated learning project using **Flower** and **PyTorch** to train a CNN on the **MNIST dataset** across multiple simulated clients. This demonstrates how models can learn collaboratively **without sharing raw data**.
+**FlowerMNIST** is a federated learning project using **Flower** and **PyTorch** to train a CNN on the **MNIST dataset** across multiple simulated clients. This demonstrates how models can learn collaboratively **without sharing raw data**.
 
 ---
 
@@ -22,9 +22,9 @@
 
 ## 🧩 Project Structure
 
-FedMNIST/
-├─ flwr_fed_mnist.py # Main federated learning script
-├─ README.md # Project documentation
+FlowerMNIST/
+1.flwr_fed_mnist.py # Main federated learning script
+2.README.md # Project documentation
 
 The script will:
 
